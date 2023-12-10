@@ -1,9 +1,7 @@
 //
 //  SceneDelegate.swift
 //  CatchLuffyGame
-//
-//  Created by Shadow  on 24/11/23.
-//
+
 
 import UIKit
 
